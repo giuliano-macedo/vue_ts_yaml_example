@@ -29,6 +29,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^6.2.2",
     "typescript": "~3.9.3",
+    "vue-cli-plugin-yaml": "^1.0.2",
     "vue-template-compiler": "^2.6.11"
   }
 }
